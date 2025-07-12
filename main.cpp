@@ -16,7 +16,7 @@
 ***** You should not override get_time.)
 *---------------------------------------------
 // Programmer - Ashley Jacobson
-// Tester - Audrey Tapia
+// Tester - Audrey Tapia (TESTED)
 *---------------------------------------------
 // Group Project B //
 /***** Members *****/
